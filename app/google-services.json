@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "949519747194",
+    "project_id": "mo-mo-7b70e",
+    "storage_bucket": "mo-mo-7b70e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949519747194:android:507b61b5c12b51824453c3",
+        "android_client_info": {
+          "package_name": "com.momoclips.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949519747194-gfn3tr4bmq2gbfoju4ir6neq90s0vap8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.momoclips.android",
+            "certificate_hash": "7ed19f4a214947ba310bc47f6ab8ea1cf95ae3cc"
+          }
+        },
+        {
+          "client_id": "949519747194-1s1vhcj41bgpj84e4dh266pi5o753lmg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLND1yqhgefq8YTdoo3f5Qv06kEjU-MsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949519747194-1s1vhcj41bgpj84e4dh266pi5o753lmg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,265 @@
+{
+  "project_info": {
+    "project_number": "990209131721",
+    "firebase_url": "https://videoconferencea-1593679222857.firebaseio.com",
+    "project_id": "videoconferencea-1593679222857",
+    "storage_bucket": "videoconferencea-1593679222857.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990209131721:android:d429dccff781831a75b918",
+        "android_client_info": {
+          "package_name": "com.momoclips.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990209131721-3m8ubc68v7mkp2jsfbbsbrpan5s39uve.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.momoclips.android",
+            "certificate_hash": "b91a0a0accab38a32e61b10d25bb89206868535b"
+          }
+        },
+        {
+          "client_id": "990209131721-vn59ejhoqfrn86dcehp97ikpg0ppst2c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.momoclips.android",
+            "certificate_hash": "c07862dc637146d64b6e0e6aaa6ff88ac3a7386b"
+          }
+        },
+        {
+          "client_id": "990209131721-vat1r2cucqls1foseli54bsv2s9d12r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu7vJc_8EXU4J8ZW9vAUO_ZU0tgaAx_q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990209131721-fp8uf2nakb7ulhvvv6ns9cqrnqhbhkic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990209131721:android:4b21d9cdca635e9775b918",
+        "android_client_info": {
+          "package_name": "com.example.newsapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990209131721-i6hu4b3klqaggvhsrdroa313i2cd0lr6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.newsapps",
+            "certificate_hash": "c07862dc637146d64b6e0e6aaa6ff88ac3a7386b"
+          }
+        },
+        {
+          "client_id": "990209131721-vat1r2cucqls1foseli54bsv2s9d12r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu7vJc_8EXU4J8ZW9vAUO_ZU0tgaAx_q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990209131721-fp8uf2nakb7ulhvvv6ns9cqrnqhbhkic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990209131721:android:714a11ce19b2a65f75b918",
+        "android_client_info": {
+          "package_name": "com.example.placefinderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990209131721-be56at01ft8ddjno504s3qdmrg20pllv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.placefinderapp",
+            "certificate_hash": "c07862dc637146d64b6e0e6aaa6ff88ac3a7386b"
+          }
+        },
+        {
+          "client_id": "990209131721-vat1r2cucqls1foseli54bsv2s9d12r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu7vJc_8EXU4J8ZW9vAUO_ZU0tgaAx_q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990209131721-fp8uf2nakb7ulhvvv6ns9cqrnqhbhkic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990209131721:android:febdfb6cd08a248975b918",
+        "android_client_info": {
+          "package_name": "com.example.realestate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990209131721-39tmb4ff9rllaotmtthiqd6qq341lvio.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.realestate",
+            "certificate_hash": "d8857ae7b8d692648e0c0b360b5609125110acc3"
+          }
+        },
+        {
+          "client_id": "990209131721-fgvnuvfs5mea6pt6653nnegrink72itr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.realestate",
+            "certificate_hash": "b91a0a0accab38a32e61b10d25bb89206868535b"
+          }
+        },
+        {
+          "client_id": "990209131721-jf9u6o9rbs80vlrkkv1jrc7k9bo8u2kg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.realestate",
+            "certificate_hash": "c07862dc637146d64b6e0e6aaa6ff88ac3a7386b"
+          }
+        },
+        {
+          "client_id": "990209131721-vat1r2cucqls1foseli54bsv2s9d12r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu7vJc_8EXU4J8ZW9vAUO_ZU0tgaAx_q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990209131721-fp8uf2nakb7ulhvvv6ns9cqrnqhbhkic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990209131721:android:46e38c7722b156b875b918",
+        "android_client_info": {
+          "package_name": "com.example.recipebox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990209131721-u1aqag2ih9ot3nv0a96m4hohli86n6ip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.recipebox",
+            "certificate_hash": "c07862dc637146d64b6e0e6aaa6ff88ac3a7386b"
+          }
+        },
+        {
+          "client_id": "990209131721-vat1r2cucqls1foseli54bsv2s9d12r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu7vJc_8EXU4J8ZW9vAUO_ZU0tgaAx_q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990209131721-fp8uf2nakb7ulhvvv6ns9cqrnqhbhkic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990209131721:android:5a575e6279405de075b918",
+        "android_client_info": {
+          "package_name": "com.example.videomeetingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990209131721-aucvfk45b2hg9t12qtqhgf6t6e7cj0sk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.videomeetingapp",
+            "certificate_hash": "c07862dc637146d64b6e0e6aaa6ff88ac3a7386b"
+          }
+        },
+        {
+          "client_id": "990209131721-empn474o7gg7a73ubr2p9oo1usc4d83r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.videomeetingapp",
+            "certificate_hash": "d8857ae7b8d692648e0c0b360b5609125110acc3"
+          }
+        },
+        {
+          "client_id": "990209131721-vat1r2cucqls1foseli54bsv2s9d12r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu7vJc_8EXU4J8ZW9vAUO_ZU0tgaAx_q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990209131721-fp8uf2nakb7ulhvvv6ns9cqrnqhbhkic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
